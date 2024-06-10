@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">project</string>
+    <string name="start_game_button">Start the game 🙂</string>
+    <string name="share_score_text">My math game score is %1$d. Try to beat me 😉</string>
+    <string name="share_title">Share your score 🥳</string>
+    <string name="math_game_title">PlusMinus</string>
+    <string name="score_label">Score: %1$d</string>
+    <string name="time_left_label">Time left: %1$d s</string>
+    <string name="answer_label">Answer</string>
+    <string name="submit_button">Submit</string>
+    <string name="done_icon">Done</string>
+    <string name="restart_button">Restart</string>
+    <string name="correct_message">Correct!</string>
+    <string name="try_again_message">Try Again!</string>
+</resources>
